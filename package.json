@@ -1,0 +1,24 @@
+{
+  "name": "excepturiimpedit",
+  "version": "1.0.0",
+  "description": "Helpers to support Truffle's JavaScript tests for Ethereum smart contracts",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/NeldaNikolaus/excepturiimpedit.git"
+  },
+  "keywords": [
+    "et",
+    "fugiat",
+    "laborum",
+    "web3",
+    "ethereum",
+    "ut"
+  ],
+  "author": "ZaneDeckow",
+  "license": "GPL-3.0",
+  "homepage": "https://github.com/NeldaNikolaus/excepturiimpedit.git",
+  "dependencies": {
+    "chai": "^4.1.2"
+  }
+}
